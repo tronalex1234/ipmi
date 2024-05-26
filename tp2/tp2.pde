@@ -1,4 +1,4 @@
-
+//(comision 1) Alexander Chapilliquen Cardenas//
 PImage pantalla1;
 PImage pantalla2;
 PImage pantalla3;
