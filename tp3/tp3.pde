@@ -1,3 +1,5 @@
+//alexander chapilliquen cardenas 
+//comision 1 
 PImage img; 
 
 void setup() {
