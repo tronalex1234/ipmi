@@ -1,7 +1,7 @@
 PFont fuente;
 PImage[] imagenes = new PImage[3];
 String[] textos = {
-  "Bienvenidos a la presentación de \n baki una persona de fuerte",
+  "Bienvenidos a la presentación de \n baki una persona re fuerte",
   "Explora este mundo mágico",
   "Gracias por tu atención"
   "
